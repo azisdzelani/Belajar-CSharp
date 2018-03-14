@@ -4,13 +4,15 @@ class DemoBintang
 {
     static void Main()
     {
-        for (int i = 0; i < 10; i++)
+        for (int i = 1; i < 10; i++)
         {
-            for (int j = 0; j < i; i++)
+            for (int j = 0; j < i; j++)
             {
-                Console.WriteLine(*);
+                Console.Write("*");
             }
+            Console.WriteLine();
         }
+
         Console.ReadLine();
     }
 }
