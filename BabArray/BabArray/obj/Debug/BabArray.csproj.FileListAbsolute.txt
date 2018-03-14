@@ -1,0 +1,6 @@
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\bin\Debug\BabArray.exe.config
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\bin\Debug\BabArray.exe
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\bin\Debug\BabArray.pdb
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\obj\Debug\BabArray.csprojResolveAssemblyReference.cache
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\obj\Debug\BabArray.exe
+F:\9. EBIZ LABS\Buku C#\BabArray\BabArray\obj\Debug\BabArray.pdb
